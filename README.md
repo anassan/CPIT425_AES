@@ -1,6 +1,6 @@
 # AES Project
 
-# Instruction
+# Instructions
 - Execute AES.java 
 - Enter 'e' for Encryption or 'd' for Decryption 
 
