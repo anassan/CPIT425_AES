@@ -16,6 +16,11 @@ In case of decryption
 
 # Implementation
 
+- Keys Generator
+My implementation will use 128 bit key size. 
+generateKey() method will generate a random 16 byte
+
+
 
 
 # References
