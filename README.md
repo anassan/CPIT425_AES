@@ -10,7 +10,7 @@
 2. Select where do you want to save the encrypted file.
 3. Copy the printed key to use it for decryption.
 
-**In case of decryption** 
+**In case of Decryption** 
 
 1. Select any encrypted file from File explorer to decrypt it.
 2. Enter the key that used in encryption.
